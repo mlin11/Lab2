@@ -16,6 +16,7 @@ public class Random3Mers
 				Random random=new Random();
 				int n = random.nextInt(4);
 				
+				
 				switch(n)
 				{
 					case 0: s=s+"A";
