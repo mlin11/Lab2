@@ -28,6 +28,7 @@ public class RandomThreeMersUnequalFreq
 				}else if ((f>=0.5f) &&(f<0.89f))
 				{
 					s=s+"G";
+				// the last else-if could be changed to else	
 				}else if ((f>=0.89f) &&(f<1f))
 				{
 					s=s+"T";
