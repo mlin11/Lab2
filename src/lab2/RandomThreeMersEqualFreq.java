@@ -2,6 +2,7 @@ package lab2;
 
 import java.util.Random;
 
+
 public class RandomThreeMersEqualFreq
 {
 	public static void main(String[] args)
